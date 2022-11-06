@@ -10,3 +10,4 @@ Asks for a user input, which is a string of no more than 50 characters (no space
 
 
 ## Demo
+![Demo_Recording](https://user-images.githubusercontent.com/117582430/200179553-b5d3e8f8-9371-4706-968b-acf4693d56ea.gif)
