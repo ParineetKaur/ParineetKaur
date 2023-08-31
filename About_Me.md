@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ParineetKaur
 - 👀 I take interest in web and app development. Alongside, I have come to develop an interest in C++ because it is fast and efficient. Because most of the major operating systems are built with C++ code, it becomes even more essential to understand.
 - 🌱 I'm currently immersed in learning SQL using the DBMS SQLite, exploring the art of managing and querying databases to uncover valuable insights.  
-- 📫 How to reach me: Email -> parneetk03@gmail.com
