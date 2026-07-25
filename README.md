@@ -63,7 +63,7 @@ I enjoy combining analytical rigor with a builder's mindset, evaluating opportun
 
 ## Resume
 
-[View / Download Resume (PDF)](https://docs.google.com/document/d/1bTEaEaZb2y_WbqfVFBWs0oBuW2vX0thLU8JWCL7G714/edit?usp=sharing)
+[View / Download Resume (PDF)](file:///Users/parneetkaur/Desktop/Parneet%20Kaur%20Resume.pdf)
 
 ## Connect
 
