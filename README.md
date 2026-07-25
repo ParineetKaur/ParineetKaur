@@ -9,9 +9,9 @@ I enjoy combining analytical rigor with a builder's mindset, evaluating opportun
 
 ## Table of Contents
 
-* [Featured Projects](https://github.com/YOUR-GITHUB-USERNAME#featured-projects)
-* [Technical Skills](https://github.com/YOUR-GITHUB-USERNAME#technical-skills)
-* [Resume](https://github.com/YOUR-GITHUB-USERNAME#resume)
+* [Featured Projects](#featured-projects)
+* [Technical Skills](#technical-skills)
+* [Resume](#resume)
 
 ## Featured Projects
 
@@ -82,7 +82,7 @@ Even the project's limitations prove known challenges in the field: insufficient
 
 ## Resume
 
-[View / Download Resume (PDF)](file:///Users/parneetkaur/Desktop/Parneet%20Kaur%20Resume.pdf)
+[View / Download Resume (PDF)](https://docs.google.com/document/d/1bTEaEaZb2y_WbqfVFBWs0oBuW2vX0thLU8JWCL7G714/edit?usp=sharing)
 
 ## Connect
 
