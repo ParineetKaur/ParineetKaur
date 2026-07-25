@@ -16,32 +16,32 @@ I enjoy combining analytical rigor with a builder's mindset, evaluating opportun
 ## Featured Projects
 
 ### CropWise: Data-Driven Agriculture with ML
-# Tech Stack
+#### Tech Stack
 
-## Core data handling
+##### Core data handling
 - `pandas`, `numpy` — data wrangling
 - `thefuzz` (fuzzywuzzy-style) — fuzzy string matching for reconciling inconsistent country names against the UN SIDS list
 
-## Visualization
+##### Visualization
 - `matplotlib`, `seaborn` — plots (histograms, KDE, heatmaps, boxplots, residual plots)
 - `IPython.display` — inline rendering of tables/outputs
 
-## Statistics
+###### Statistics
 - `scipy.stats` (`kstest`) — Kolmogorov–Smirnov normality testing
 - `scipy.signal.find_peaks` — detecting bimodal peaks in temperature distribution
 - `scipy.stats.mstats.winsorize` — outlier capping
 - `statsmodels` — OLS regression for testing quadratic/interaction trends
 
-## Preprocessing / feature engineering (scikit-learn)
+##### Preprocessing / feature engineering (scikit-learn)
 - `KNNImputer` — imputing missing rainfall/temperature values
 - `OneHotEncoder`, `ColumnTransformer`, `Pipeline` — categorical encoding
 - `StandardScaler`, `PolynomialFeatures` — scaling and polynomial features
 - `PCA` — dimensionality reduction for visualization in the recommender section
 
-## Outlier detection
+##### Outlier detection
 - `IsolationForest`, `LocalOutlierFactor` — anomaly detection tailored to different variable distributions
 
-## Modeling
+##### Modeling
 - `LinearRegression`, `Ridge`, `Lasso` — baseline linear models
 - `DecisionTreeRegressor` — feature importance + non-linear baseline
 - `RandomForestRegressor` — best-performing model
@@ -49,11 +49,11 @@ I enjoy combining analytical rigor with a builder's mindset, evaluating opportun
 - `KMeans` + `silhouette_score` — clustering countries into regions
 - `TimeSeriesSplit`, `KFold`, `train_test_split`, `GridSearchCV`, `RandomizedSearchCV`, `cross_val_score` — validation and hyperparameter tuning, with time-aware splitting to avoid leakage
 
-## Model interpretation
+##### Model interpretation
 - `shap` — SHAP interaction values for feature importance beyond simple decision-tree splits
 - `sklearn.metrics.pairwise.cosine_similarity` — used in the content-based recommender system
 
-## Evaluation metrics
+##### Evaluation metrics
 - `mean_squared_error`, `mean_absolute_error`, `r2_score`
 
 Crop yield prediction sits at the center of one of today's most pressing global challenges with food secruity under climate change. Food security is one of the most urgent global challenges today, compounded by environmental degradation, water scarcity, and the increasing threats posed by climate change, and crop yields are highly sensitive to fluctuations in temperature, precipitation, soil quality, and humidity which are all the exact variables this project models.
