@@ -50,15 +50,20 @@ I enjoy combining analytical rigor with a builder's mindset, evaluating opportun
 ## Technical Skills
 
 **Languages:** Python, SQL, R, HTML, CSS, JavaScript, Assembly Basics
+
 **Analytics & ML:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, Statistical Modeling (Regression, A/B Testing), NLTK
+
 **Databases:** PostgreSQL, MySQL, SQLite
+
 **BI & Visualization:** Tableau, Power BI, Excel, QlikView
+
 **Workflow:** Git, GitHub, VS Code
+
 **AI & GenAI:** Prompt Engineering, LLM APIs (OpenAI, Claude, Gemini), LangChain, MLOps
 
 ## Resume
 
-[View / Download Resume (PDF)](https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/blob/main/resume/Parneet_Kaur_Resume.pdf)
+[View / Download Resume (PDF)](https://docs.google.com/document/d/1bTEaEaZb2y_WbqfVFBWs0oBuW2vX0thLU8JWCL7G714/edit?usp=sharing)
 
 ## Connect
 
