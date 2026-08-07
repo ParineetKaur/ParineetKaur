@@ -1,6 +1,6 @@
 # Parneet Kaur
 
-**Incoming M.S. Business Analytics at UC Davis (August 2026 – June 2027)**
+**M.S. Business Analytics at UC Davis (August 2026 – June 2027)**
 **B.S. Computer Science from Santa Clara University (2025)**
 
 Hi, my name is Parneet Kaur. I'm drawn to entrepreneurship as an analytical challenge, one that requires testing assumptions and using data as a medium to create value across sectors. Growing up around my father's agribusiness in India, I learned early that sustaining a business isn't just about working with numbers, it's about building long-term relationships with suppliers, customers, and employees.
