@@ -76,9 +76,7 @@ Even the project's limitations prove known challenges in the field: insufficient
 
 **BI & Visualization:** Tableau, Power BI, Excel, QlikView
 
-**Workflow:** Git, GitHub, VS Code
-
-**AI & GenAI:** Prompt Engineering, LLM APIs (OpenAI, Claude, Gemini), LangChain, MLOps
+**AI & GenAI:** Prompt Engineering, LLM APIs (OpenAI, Claude, Gemini)
 
 ## Resume
 
