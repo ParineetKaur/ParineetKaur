@@ -77,10 +77,6 @@ Even the project's limitations prove known challenges in the field: insufficient
 
 **AI & GenAI:** Prompt Engineering, LLM APIs (OpenAI, Claude, Gemini)
 
-## Resume
-
-[View / Download Resume (PDF)](https://docs.google.com/document/d/1bTEaEaZb2y_WbqfVFBWs0oBuW2vX0thLU8JWCL7G714/edit?usp=sharing)
-
 ## Connect
 
 * [LinkedIn](https://www.linkedin.com/in/parneetk24/)
