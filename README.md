@@ -2,15 +2,12 @@
 
 **B.S. Computer Science from Santa Clara University (2025)**
 
-Hi, my name is Parneet Kaur. I'm drawn to entrepreneurship as an analytical challenge, one that requires testing assumptions and using data as a medium to create value across sectors. Growing up around my father's agribusiness in India, I learned early that sustaining a business isn't just about working with numbers, it's about building long-term relationships with suppliers, customers, and employees.
-
-I enjoy combining analytical rigor with a builder's mindset, evaluating opportunities and risks, acting decisively under uncertainty, and constructing strategies grounded in data, with a growing interest in emerging areas like generative AI.
+Hi, my name is Parneet Kaur. I'm drawn to entrepreneurship as an analytical challenge, one that requires testing assumptions and using data as a medium to create value across sectors. I enjoy combining analytical rigor with a builder's mindset, evaluating opportunities and risks, acting decisively under uncertainty, and constructing strategies grounded in data, with a growing interest in people analytics and AI workflow automations. 
 
 ## Table of Contents
 
 * [Featured Projects](#featured-projects)
 * [Technical Skills](#technical-skills)
-* [Resume](#resume)
 
 ## Featured Projects
 
@@ -60,8 +57,6 @@ Crop yield prediction sits at the center of one of today's most pressing global 
 Yield prediction is an essential component of global food security because it enables proactive responses to potential yield losses caused by environmental stressors, meaning models like this one can inform decisions before shortages happen. 
 
 Even the project's limitations prove known challenges in the field: insufficient datasets, limited climatic variation, and short yield time-series. These are the the same data-sparsity issues (missing pre-1990 records, uneven country coverage) this project had to work through.
-
-**Overview Can Be Found in The Following Presentation Video (To Be Added)**
 
 ---
 
